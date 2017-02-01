@@ -10,7 +10,7 @@ categories: forensics
 
 ## De feiten tot nu toe...
 
-- Man in haven van Antwerpen
+- Lichaam man in haven van Antwerpen
 - \> 10 dagen geleden overleden
 - Bruine ogen
 - Bruine haren
@@ -25,6 +25,6 @@ Het autopsie lab meldde net dat de man een aantal proefbuisjes verborgen had in 
 ## Multiple sequence alignments en fylogenetische bomen
 Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola virus genomen met behulp van *multiple sequence alignment*. Hierna stellen we ook een fylogenetische boom op die de evolutionaire verwantschap tussen de virussen weergeeft.
 
-[Klik hier om de volledige genoom sequentie van het gevonden Ebola virus en een aantal reeds gekende genomen te downloaden...](https://biodatamining.github.io/BioCluedo/data/msa_data)
+[Klik hier om de volledige genoom sequentie van het gevonden Ebola virus en een aantal reeds gekende genomen te downloaden...](https://biodatamining.github.io/BioCluedo/data/msa_data.zip)
 
 [Klik hier om naar de multiple sequence alignment tool Clustal Omega te gaan...](https://www.ebi.ac.uk/Tools/msa/clustalo/)

@@ -10,7 +10,7 @@ categories: forensics
 
 ## De feiten tot nu toe...
 
-- Man in haven van Antwerpen
+- Lichaam man in haven van Antwerpen
 - \> 10 dagen geleden overleden
 - Bruine ogen
 - Bruine haren

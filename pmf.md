@@ -10,7 +10,7 @@ categories: forensics
 
 ## De feiten tot nu toe...
 
-- Man in haven van Antwerpen
+- Lichaam man in haven van Antwerpen
 - \> 10 dagen geleden overleden
 - Bruine ogen
 - Bruine haren
@@ -29,6 +29,6 @@ Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets ove
 ## Massaspectra en databanken
 Probeer te achterhalen met welke eiwitten de gevonden massaspectra overeenkomen. Zou je deze eiwitten verwachten in een menselijk staal of zie je iets onverwachts?
 
-[Klik hier om de massaspectra te downloaden...](https://biodatamining.github.io/BioCluedo/data/pmf_data)
+[Klik hier om de massaspectra te downloaden...](https://biodatamining.github.io/BioCluedo/data/pmf_data.zip)
 
 [Klik hier om naar de MASCOT tool te gaan...](http://www.matrixscience.com/cgi/search_form.pl?FORMVER=2&SEARCH=PMF/)
