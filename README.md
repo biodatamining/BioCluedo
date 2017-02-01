@@ -10,7 +10,7 @@ categories: forensics
 
 ## Een mysterie om te ontrafelen, een lijk in de Schelde en een heleboel biologisch speurwerk...
 
-Welkom in het hoofdkwartier van de BSB (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schieten wanneer er nood is aan bio-informatische invalshoek bij een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers M. De Neuter en M. Moris zullen we deze zaak proberen te reconstrueren.
+Welkom in het hoofdkwartier van de BSB (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schieten wanneer er nood is aan een bio-informatische invalshoek bij een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers M. De Neuter en M. Moris zullen we deze zaak proberen te reconstrueren.
 
 ## Wat zijn de feiten?
 
