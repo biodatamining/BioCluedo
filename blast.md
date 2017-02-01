@@ -20,7 +20,7 @@ categories: forensics
 
 ## De bacteriële flora van het slachtoffer
 
-Naast de gebruikelijke menselijke DNA-stalen heeft het labo ook het DNA van bacteriën op het lichaam onderzocht. Wie weet wat voor geheimen dit nog zou zouden kunnen onthullen...
+Naast de gebruikelijke menselijke DNA-stalen heeft het labo ook het DNA van bacteriën op het lichaam onderzocht. Wie weet wat voor geheimen dit nog zou kunnen onthullen...
 
 ## BLAST - zoeken naar een naald in een hooiberg
 
