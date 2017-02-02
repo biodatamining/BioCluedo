@@ -29,4 +29,4 @@ Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola viru
 
 [Klik hier om naar de multiple sequence alignment tool Clustal Omega te gaan...](https://www.ebi.ac.uk/Tools/msa/clustalo/)
 
-[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/pmf)
+[Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/pmf)
