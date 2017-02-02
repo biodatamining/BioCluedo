@@ -31,3 +31,5 @@ De oog- en haarkleur van mensen wordt bepaald door puntmutaties in een aantal ge
 Zodra we alle relevante SNP's hebben opgespoord, kunnen we het fenotype van de man voorspellen met behulp van de volgende website:
 
 [Klik hier om naar IrisPlex te gaan...](http://hirisplex.erasmusmc.nl/)
+
+[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/blast)

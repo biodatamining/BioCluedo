@@ -31,3 +31,5 @@ Gebruik BLAST om de identiteit van de vijf gevonden bacteriële sequenties te on
 [Klik hier om de vijf sequenties te bekijken (in FASTA formaat)](https://biodatamining.github.io/BioCluedo/data/blast_data.zip)
 
 [Klik hier om naar de BLAST tool te gaan...](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
+[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/msa)
