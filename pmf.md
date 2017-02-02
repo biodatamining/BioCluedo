@@ -24,7 +24,7 @@ categories: forensics
 
 ## Een addertje onder het gras
 
-Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets over het hoofd was gezien bij het initieel onderzoek: de man vertoonde twee kleine bijtwonden in zijn linker onderbeen. Een biopsie van dit weefsel werd opgestuurd naar het proteomics labo voor analyse in een massa spectrometer.
+Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets over het hoofd was gezien bij het initieel onderzoek: de man vertoonde twee kleine bijtwonden. Een biopsie van dit weefsel werd opgestuurd naar het proteomics labo voor analyse in een massa spectrometer.
 
 ## Massaspectra en databanken
 Probeer te achterhalen met welke eiwitten de gevonden massaspectra overeenkomen. Zou je deze eiwitten verwachten in een menselijk staal of zie je iets onverwachts?
