@@ -32,4 +32,4 @@ Zodra we alle relevante SNP's hebben opgespoord, kunnen we het fenotype van de m
 
 [Klik hier om naar IrisPlex te gaan...](http://hirisplex.erasmusmc.nl/)
 
-[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/blast)
+[Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/blast)
