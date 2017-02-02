@@ -28,3 +28,5 @@ Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola viru
 [Klik hier om de volledige genoom sequentie van het gevonden Ebola virus en een aantal reeds gekende genomen te downloaden...](https://biodatamining.github.io/BioCluedo/data/msa_data.zip)
 
 [Klik hier om naar de multiple sequence alignment tool Clustal Omega te gaan...](https://www.ebi.ac.uk/Tools/msa/clustalo/)
+
+[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/pmf)

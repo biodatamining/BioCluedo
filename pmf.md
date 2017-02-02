@@ -32,5 +32,3 @@ Probeer te achterhalen met welke eiwitten de gevonden massaspectra overeenkomen.
 [Klik hier om de massaspectra te downloaden...](https://biodatamining.github.io/BioCluedo/data/pmf_data.zip)
 
 [Klik hier om naar de MASCOT tool te gaan...](http://www.matrixscience.com/cgi/search_form.pl?FORMVER=2&SEARCH=PMF/)
-
-[//]: # [Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/data/pmf)
