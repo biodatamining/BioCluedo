@@ -26,3 +26,5 @@ Rechercheur Beirnaert heeft de volgende feiten kunnen vaststellen:
 - Verder macroscopisch en microscopisch onderzoek van het lichaam is nog lopend.
 
 [Het werk kan beginnen, klik hier om te starten!](https://biodatamining.github.io/BioCluedo/pairwise_alignment)
+
+[//]: # (This is a test for a comment)
