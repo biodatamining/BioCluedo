@@ -27,4 +27,4 @@ Rechercheur Beirnaert heeft de volgende feiten kunnen vaststellen:
 - Verschillende stalen werden reeds afgezonderd voor DNA- en eventueel toxicologisch onderzoek. 
 - Verder macroscopisch en microscopisch onderzoek van het lichaam is nog lopend.
 
-[//]: # [Het werk kan beginnen, klik hier om te starten!](https://biodatamining.github.io/BioCluedo/pairwise_alignment)
+[Het werk kan beginnen, klik hier om te starten!](https://biodatamining.github.io/BioCluedo/pairwise_alignment)
