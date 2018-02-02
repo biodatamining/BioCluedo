@@ -1,3 +1,17 @@
 #theme: jekyll-theme-cayman
 remote_theme: brianmaierjr/long-haul
+title: BioCluedo
+navigation:
+ - title: Start
+   url: /start
+ - title: Pairwise Alignment
+   url: /pairwise_alignment
+ - title: BLAST
+    url: /blast
+ - title: Multiple Sequence Alignment
+    url: /msa
+ - title: Peptide Mass Fingerprinting
+    url: /pmf
+
+
 
