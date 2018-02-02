@@ -24,11 +24,11 @@ categories: forensics
 
 ## Een addertje onder het gras
 
-Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets over het hoofd was gezien bij het initieel onderzoek: de man vertoonde twee kleine bijtwonden. Een biopsie van dit weefsel werd opgestuurd naar het proteomics labo voor analyse in een massa spectrometer.
+Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets over het hoofd was gezien bij het initiële onderzoek: de man vertoonde twee kleine bijtwonden. Een biopsie van dit weefsel werd opgestuurd naar het proteomics labo voor analyse in een massa spectrometer.
 
 ## Massaspectra en databanken
 Probeer te achterhalen met welke eiwitten de gevonden massaspectra overeenkomen. Zou je deze eiwitten verwachten in een menselijk staal of zie je iets onverwachts?
 
 [Klik hier om de massaspectra te downloaden...](https://biodatamining.github.io/BioCluedo/data/pmf_data.zip)
 
-[Klik hier om naar de MASCOT tool te gaan...](http://mascot-trial.cmi.ua.ac.be/mascot/cgi/search_form.pl?FORMVER=2&SEARCH=PMF)
+[Klik hier om naar de MASCOT tool te gaan...](http://www.matrixscience.com/cgi/search_form.pl?FORMVER=2&SEARCH=PMF)
