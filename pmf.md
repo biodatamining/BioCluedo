@@ -4,6 +4,7 @@ title:      peptide_mass_fingerprinting
 date:       2017-02-01
 summary:    pmf_toxines
 categories: forensics
+image: dna.jpg
 ---
 
 # Peptides identificeren

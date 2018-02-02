@@ -12,7 +12,7 @@ categories: forensics
 
 ![](https://github.com/biodatamining/BioCluedo/raw/master/afbeeldingen/csi_antwerpen.jpg)
 
-Welkom in het hoofdkwartier van de BBS (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schieten wanneer er nood is aan een bio-informatische invalshoek tijdens een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers dr. De Neuter en dr. Moris zullen we deze zaak proberen te reconstrueren.
+Welkom in het hoofdkwartier van de BBS (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schiet wanneer er nood is aan een bio-informatische invalshoek tijdens een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers dr. De Neuter en dr. Moris zullen we deze zaak proberen te reconstrueren.
 
 ## Wat zijn de feiten?
 
@@ -27,4 +27,4 @@ Rechercheur Beirnaert heeft de volgende feiten kunnen vaststellen:
 - Verschillende stalen werden reeds afgezonderd voor DNA- en eventueel toxicologisch onderzoek. 
 - Verder macroscopisch en microscopisch onderzoek van het lichaam is nog lopend.
 
-[Het werk kan beginnen, klik hier om te starten!](https://biodatamining.github.io/BioCluedo/pairwise_alignment)
+[Het werk kan beginnen, klik hier om te starten!](/pairwise_alignment.md)

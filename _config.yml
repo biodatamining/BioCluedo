@@ -1,3 +1,21 @@
-#theme: jekyll-theme-cayman
-remote_theme: nielsenramon/chalk
+title: BioCluedo
+description: BioCluedo
+
+url: http://biodatamining.github.com/biocluedo
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+navigation:
+ - title: 1-Start
+   url: /start
+ - title: 2-Pairwise Alignment
+   url: /pairwise_alignment
+ - title: 3-BLAST
+   url: /blast
+ - title: 4-Multiple Sequence Alignment
+   url: /msa
+ - title: 5-Peptide Mass Fingerprinting
+   url: /pmf
 
