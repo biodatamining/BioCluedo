@@ -2,7 +2,7 @@ title: BioCluedo
 description: An introductory workshop on computational biology in the style of a forensic mystery.
 
 url: biodatamining.github.io
-baseurl: "/biocluedo"
+baseurl: "/BioCluedo"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
