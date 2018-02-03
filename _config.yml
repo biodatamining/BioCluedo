@@ -1,3 +1,27 @@
-theme: jekyll-theme-cayman
-#remote_theme: mmistakes/skinny-bones-jekyll
+title: BioCluedo
+description: An introductory workshop on computational biology in the style of a forensic mystery.
+
+url: biodatamining.github.io
+baseurl: "/biocluedo"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+#gems: [jekyll-paginate]
+#paginate: 5
+
+include: ['_pages']
+
+navigation:
+ - title: 1-Start
+   url: /
+ - title: 2-Pairwise Alignment
+   url: /pairwise_alignment
+ - title: 3-BLAST
+   url: /blast
+ - title: 4-Multiple Sequence Alignment
+   url: /msa
+ - title: 5-Peptide Mass Fingerprinting
+   url: /pmf
 

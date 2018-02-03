@@ -4,15 +4,19 @@ title:      BioCluedo
 date:       2017-02-01
 summary:    Introduction
 categories: forensics
+permalink: /
 ---
 
 # BioCluedo
 
-## Een mysterie om te ontrafelen, een lijk in de Schelde en een heleboel biologisch speurwerk...
+## Een lijk in de Schelde, een mysterie om te ontrafelen en een heleboel biologisch speurwerk...
 
-![](https://github.com/biodatamining/BioCluedo/raw/master/afbeeldingen/csi_antwerpen.jpg)
+![CSI Antwerpen]({{ "/afbeeldingen/csiantwerpen.jpg" | absolute_url }})
 
-Welkom in het hoofdkwartier van de BBS (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schieten wanneer er nood is aan een bio-informatische invalshoek tijdens een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers dr. De Neuter en dr. Moris zullen we deze zaak proberen te reconstrueren.
+<!---
+![]({{ "/assets/img/csiantwerpen.jpg" | prepend: site.baseurl }})-->
+
+Welkom in het hoofdkwartier van de BBS (Belgische Bio Speurneuzen). Wij zijn een uiterst gespecialiseerde eenheid van de gerechtelijke politie die te hulp schiet wanneer er nood is aan een bio-informatische invalshoek tijdens een forensisch onderzoek. Rechercheur Beirnaert heeft vandaag onze hulp ingeroepen om een raadselachtige zaak op te lossen: *het lichaam van een man, teruggevonden in de Schelde*. Samen met de wetenschappers dr. De Neuter en dr. Moris zullen we deze zaak proberen te reconstrueren.
 
 ## Wat zijn de feiten?
 
@@ -27,4 +31,5 @@ Rechercheur Beirnaert heeft de volgende feiten kunnen vaststellen:
 - Verschillende stalen werden reeds afgezonderd voor DNA- en eventueel toxicologisch onderzoek. 
 - Verder macroscopisch en microscopisch onderzoek van het lichaam is nog lopend.
 
-[Het werk kan beginnen, klik hier om te starten!](https://biodatamining.github.io/BioCluedo/pairwise_alignment)
+[Het werk kan beginnen, klik hier om te starten!]({{"/pairwise_alignment" | prepend: site.baseurl }})
+

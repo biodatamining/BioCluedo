@@ -1,9 +1,10 @@
 ---
 layout:     default
-title:      Pairwise alignment
+title:      Pairwise Alignment
 date:       2017-02-01
 summary:    snp-hair-eye-color
 categories: forensics
+permalink: /pairwise_alignment/
 ---
 
 # Pairwise alignment
@@ -24,7 +25,7 @@ Daarom heeft het autopsie lab enkele DNA-stalen van het slachtoffer geëxtraheer
 
 De oog- en haarkleur van mensen wordt bepaald door puntmutaties in een aantal genen (*HERC2, IRF4, MC1R, etc.*). Vergelijk de DNA-sequentie van het slachtoffer met een gekende referentiesequentie om te achterhalen welke mutaties (*single nucleotide polymorphisms* of SNP's) de man had in deze genen. Hiervoor maken we gebruik van *pairwise sequence alignment*, een algoritme om twee verschillende DNA-sequenties te vergelijken. 
 
-[De sequenties van de genen kan je hier vinden (in FASTA formaat)...](https://biodatamining.github.io/BioCluedo/data/pairwise_alignment_data.zip)
+[De sequenties van de genen kan je hier vinden (in FASTA formaat)...]({{ "/data/pairwise_alignment_data.zip" | absolute_url }})
 
 [Klik hier om de pairwise alignment tool te openen...](https://www.ebi.ac.uk/Tools/psa/emboss_needle/nucleotide.html)
 
@@ -32,4 +33,4 @@ Zodra we alle relevante SNP's hebben opgespoord, kunnen we het fenotype van de m
 
 [Klik hier om naar IrisPlex te gaan...](http://hirisplex.erasmusmc.nl/)
 
-[Klik hier voor de update!](https://biodatamining.github.io/BioCluedo/blast)
+[Klik hier voor de update!]({{"/blast" | prepend: site.baseurl }})
