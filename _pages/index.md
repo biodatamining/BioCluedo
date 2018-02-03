@@ -11,7 +11,7 @@ permalink: /
 
 ## Een lijk in de Schelde, een mysterie om te ontrafelen en een heleboel biologisch speurwerk...
 
-![CSI Antwerpen]({{ "/afbeeldingen/csiantwerpen.jpg" | absolute_url }})
+![CSI Antwerpen]({{ "/afbeeldingen/csiantwerpen.jpg" | prepend: site.baseurl }})
 
 <!---
 ![]({{ "/assets/img/csiantwerpen.jpg" | prepend: site.baseurl }})-->
