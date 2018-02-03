@@ -29,7 +29,7 @@ BLAST is een afkorting voor *Basic Local Alignment Tool*. Het is een algoritme o
 
 Gebruik BLAST om de identiteit van de vijf gevonden bacteriële sequenties te ontdekken. Wanneer je de vermoedelijke bacterie ontdekt hebt, kan je Google of Wikipedia gebruiken om er wat meer informatie over op te zoeken. Is de bacterie bv. een ziekteverwekker? Of is het een soort die ook bij gezonde mensen voorkomt (een commensale bacterie)?
 
-[Klik hier om de vijf sequenties te bekijken (in FASTA formaat)]({{ "/data/blast_data.zip" | absolute_url }})
+[Klik hier om de vijf sequenties te bekijken (in FASTA formaat)]({{ "/data/blast_data.zip" | prepend: site.baseurl }})
 
 [Klik hier om naar de BLAST tool te gaan](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 

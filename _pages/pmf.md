@@ -30,6 +30,6 @@ Rechercheur Beirnaert kreeg zojuist bericht van het autopsie lab dat er iets ove
 ## Massaspectra en databanken
 Probeer te achterhalen met welke eiwitten de gevonden massaspectra overeenkomen. Zou je deze eiwitten verwachten in een menselijk staal of zie je iets onverwachts?
 
-[Klik hier om de massaspectra te downloaden...]({{ "/data/pmf_data.zip" | absolute_url }})
+[Klik hier om de massaspectra te downloaden...]({{ "/data/pmf_data.zip" | prepend: site.baseurl }})
 
 [Klik hier om naar de MASCOT tool te gaan...](http://www.matrixscience.com/cgi/search_form.pl?FORMVER=2&SEARCH=PMF)

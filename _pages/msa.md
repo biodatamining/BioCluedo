@@ -26,7 +26,7 @@ Het autopsie lab meldde net dat de man een aantal proefbuisjes verborgen had in 
 ## Multiple sequence alignments en fylogenetische bomen
 Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola virus genomen met behulp van *multiple sequence alignment*. Hierna stellen we ook een fylogenetische boom op die de evolutionaire verwantschap tussen de virussen weergeeft.
 
-[Klik hier om de volledige genoom sequentie van het gevonden Ebola virus en een aantal reeds gekende genomen te downloaden...]({{ "/data/msa_data.zip" | absolute_url }})
+[Klik hier om de volledige genoom sequentie van het gevonden Ebola virus en een aantal reeds gekende genomen te downloaden...]({{ "/data/msa_data.zip" | prepend: site.baseurl }})
 
 [Klik hier om naar de multiple sequence alignment tool Clustal Omega te gaan...](https://www.ebi.ac.uk/Tools/msa/clustalo/)
 
