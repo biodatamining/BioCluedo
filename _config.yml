@@ -13,9 +13,9 @@ highlighter: rouge
 
 include: ['_pages']
 
-navigation:
- - title: 1-Start
-   url: /
+# navigation:
+#  - title: 1-Start
+#    url: /
  # - title: 2-Pairwise Alignment
  #   url: /pairwise_alignment
  # - title: 3-BLAST
