@@ -16,12 +16,11 @@ include: ['_pages']
 navigation:
  - title: 1-Start
    url: /
- - title: 2-Pairwise Alignment
-   url: /pairwise_alignment
- - title: 3-BLAST
-   url: /blast
- - title: 4-Multiple Sequence Alignment
-   url: /msa
- - title: 5-Peptide Mass Fingerprinting
-   url: /pmf
-
+ # - title: 2-Pairwise Alignment
+ #   url: /pairwise_alignment
+ # - title: 3-BLAST
+ #   url: /blast
+ # - title: 4-Multiple Sequence Alignment
+ #   url: /msa
+ # - title: 5-Peptide Mass Fingerprinting
+ #   url: /pmf

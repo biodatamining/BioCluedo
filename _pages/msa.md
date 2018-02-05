@@ -21,7 +21,7 @@ permalink: /msa/
 
 ## Een verborgen lading
 
-Het autopsie lab meldde net dat de man een aantal proefbuisjes verborgen had in zijn rectum. Eéntje hiervan, hetgeen het opschrift *Bacillus anthracis* droeg, was open gegaan en uitgelekt tijdens deze onderneming. Een ander, nog gesloten proefbuisje, was gelabeld met *Ebola virus*. De inhoud hiervan werd ook gesequenced. 
+Het autopsie lab meldde net dat de man een aantal proefbuisjes verborgen had in zijn rectum. Eéntje hiervan, hetgeen het opschrift *Bacillus anthracis* droeg, was open gegaan en uitgelekt tijdens deze onderneming. Een ander, nog gesloten proefbuisje, was gelabeld met *Ebola virus*. De inhoud hiervan werd ook gesequenced.
 
 ## Multiple sequence alignments en fylogenetische bomen
 Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola virus genomen met behulp van *multiple sequence alignment*. Hierna stellen we ook een fylogenetische boom op die de evolutionaire verwantschap tussen de virussen weergeeft.
@@ -30,5 +30,4 @@ Probeer de gevonden genoom sequentie te vergelijken met reeds gekende Ebola viru
 
 [Klik hier om naar de multiple sequence alignment tool Clustal Omega te gaan...](https://www.ebi.ac.uk/Tools/msa/clustalo/)
 
-[Klik hier voor de update!]({{"/pmf" | prepend: site.baseurl }})
-
+<!-- [Klik hier voor de update!]({{"/pmf" | prepend: site.baseurl }}) -->

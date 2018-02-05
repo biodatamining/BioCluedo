@@ -23,7 +23,7 @@ Daarom heeft het autopsie lab enkele DNA-stalen van het slachtoffer geëxtraheer
 
 ## De genetica van oog- en haarkleur - SNP's en alignments
 
-De oog- en haarkleur van mensen wordt bepaald door puntmutaties in een aantal genen (*HERC2, IRF4, MC1R, etc.*). Vergelijk de DNA-sequentie van het slachtoffer met een gekende referentiesequentie om te achterhalen welke mutaties (*single nucleotide polymorphisms* of SNP's) de man had in deze genen. Hiervoor maken we gebruik van *pairwise sequence alignment*, een algoritme om twee verschillende DNA-sequenties te vergelijken. 
+De oog- en haarkleur van mensen wordt bepaald door puntmutaties in een aantal genen (*HERC2, IRF4, MC1R, etc.*). Vergelijk de DNA-sequentie van het slachtoffer met een gekende referentiesequentie om te achterhalen welke mutaties (*single nucleotide polymorphisms* of SNP's) de man had in deze genen. Hiervoor maken we gebruik van *pairwise sequence alignment*, een algoritme om twee verschillende DNA-sequenties te vergelijken.
 
 [De sequenties van de genen kan je hier vinden (in FASTA formaat)...]({{ "/data/pairwise_alignment_data.zip" | prepend: site.baseurl }})
 
@@ -33,4 +33,4 @@ Zodra we alle relevante SNP's hebben opgespoord, kunnen we het fenotype van de m
 
 [Klik hier om naar IrisPlex te gaan...](http://hirisplex.erasmusmc.nl/)
 
-[Klik hier voor de update!]({{"/blast" | prepend: site.baseurl }})
+<!-- [Klik hier voor de update!]({{"/blast" | prepend: site.baseurl }}) -->
