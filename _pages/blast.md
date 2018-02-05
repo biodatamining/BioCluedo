@@ -18,7 +18,6 @@ permalink: /blast/
 - Robotfoto
 - **NIEUW SPOOR: Bacteriële stalen**
 
-
 ## De bacteriële flora van het slachtoffer
 
 Naast de gebruikelijke menselijke DNA-stalen heeft het labo ook het DNA van bacteriën op het lichaam onderzocht. Wie weet wat voor geheimen dit nog zou kunnen onthullen...

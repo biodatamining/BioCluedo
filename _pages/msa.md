@@ -19,6 +19,8 @@ permalink: /msa/
 - Anthrax infectie - niet doodsoorzaak!
 - **NIEUW SPOOR: proefbuis met onbekend virus staal**
 
+![Reconstructed robotfoto]({{ "/afbeeldingen/reconstructed-robotfoto.JPG" | prepend: site.baseurl }})
+
 ## Een verborgen lading
 
 Het autopsie lab meldde net dat de man een aantal proefbuisjes verborgen had in zijn rectum. Eéntje hiervan, hetgeen het opschrift *Bacillus anthracis* droeg, was open gegaan en uitgelekt tijdens deze onderneming. Een ander, nog gesloten proefbuisje, gelabeld met *VIRUS X*. De inhoud hiervan werd ook gesequenced.

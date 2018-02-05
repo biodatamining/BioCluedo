@@ -15,6 +15,8 @@ permalink: /pairwise_alignment/
 - \> 10 dagen geleden overleden
 - **NIEUW SPOOR: DNA-STALEN**
 
+![Robotfoto]({{ "/afbeeldingen/robotfoto_original.jpg" | prepend: site.baseurl }})
+
 ## Hoe kunnen we DNA-stalen gebruiken om iemands oog- en haarkleur te achterhalen
 
 Rechercheur Beirnaert wilt graag een robotfoto opstellen en deze rondsturen in de hoop dat iemand het slachtoffer zal herkennen. Omdat het lichaam al zo lang in het water lag, zijn zijn uiterlijke kenmerken helaas zeer sterk aangetast: de ogen zijn onherkenbaar geworden en het haar is verkleurd door de afbraak van het pigment melanine.

@@ -31,4 +31,6 @@ Rechercheur Beirnaert heeft de volgende feiten kunnen vaststellen:
 - Verschillende stalen werden reeds afgezonderd voor DNA- en eventueel toxicologisch onderzoek.
 - Verder macroscopisch en microscopisch onderzoek van het lichaam is nog lopend.
 
+![Havenlijk]({{ "/afbeeldingen/havenlijk.png" | prepend: site.baseurl }})
+
 <!-- [Het werk kan beginnen, klik hier om te starten!]({{"/pairwise_alignment" | prepend: site.baseurl }}) -->
