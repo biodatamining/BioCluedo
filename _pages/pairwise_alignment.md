@@ -29,6 +29,8 @@ De oog- en haarkleur van mensen wordt bepaald door puntmutaties in een aantal ge
 
 [Klik hier om de pairwise alignment tool te openen...](https://www.ebi.ac.uk/Tools/psa/emboss_needle/nucleotide.html)
 
+[Indien je geen verschil ziet tussen de referentiesequentie en het DNA-staal (geen SNP aanwezig), kan je in deze databank de SNP opzoeken om de juiste positie gemakkelijker te bepalen ...](https://www.ncbi.nlm.nih.gov/snp/)
+
 Zodra we alle relevante SNP's hebben opgespoord, kunnen we het fenotype van de man voorspellen met behulp van de volgende website:
 
 [Klik hier om naar IrisPlex te gaan...](http://hirisplex.erasmusmc.nl/)
